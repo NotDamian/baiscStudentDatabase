@@ -1,0 +1,5 @@
+﻿  Źródło.cpp
+C:\Users\damia\source\repos\student database\student database\Źródło.cpp(156,15): warning C4101: "nr_albumu": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\damia\source\repos\student database\student database\Źródło.cpp(157,11): warning C4101: "srednia": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\damia\source\repos\student database\student database\Źródło.cpp(156,9): warning C4101: "wiek": lokalna zmienna, do której nie istnieje odwołanie
+  student database.vcxproj -> C:\Users\damia\source\repos\student database\Debug\student database.exe
